@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Philipp Sutter from Munich<br><br>- 📚 I'm currently learning ROS2</p>
+<p align="left">I'm Philipp Sutter from Munich<br><br>- I'm part of LA-eRacing, a Formula Student team from Landshut developing a driverless race car<br>- I'm currently learning ROS2, after that I would like to take a look at TypeScript and Spring Boot<br>- I just started a project where I’m trying to develop a small card game in Swift</p>
 
 ###
 
